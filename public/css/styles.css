@@ -1,0 +1,19 @@
+body {
+    background-color: #007bff; /* Cor de fundo */
+    color: #fff; /* Cor da fonte */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+a {
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #FFFF00;
+}
